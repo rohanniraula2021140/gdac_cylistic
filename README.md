@@ -1,4 +1,7 @@
-# gdac_cylistic
+[![Google Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=56px&h=56px&auto=format%2Ccompress&dpr=1)](https://www.google.com)
+
+# gdac_cylistic 
+
 This is the google Capstone project of Cyclistic. This demonstrates different visualization depicting the difference between Casual and Annual Member. 
 
 #Google Drive Links: 
